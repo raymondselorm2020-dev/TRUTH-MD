@@ -3,7 +3,6 @@
   "version": "1.0.6",
   "description": "WhatsApp Bot",
   "main": "index.js",
-  "type": "module",
   "scripts": {
     "start": "node index.js",
     "postinstall": "node scripts/patch-baileys.cjs"
